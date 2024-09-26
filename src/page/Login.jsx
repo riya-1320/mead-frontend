@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import api from '../utilities/api'; // Import your Axios API instance
-import './Login.css'; // Import the CSS for the login page
+import './login.css'; // Import the CSS for the login page
 import logo from '../assets/logo.png';
 
 const Login = () => {
